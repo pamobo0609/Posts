@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Zemoga Posts</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="delete_all_posts">Delete all posts</string>
+    <string name="posts">Posts</string>
+    <string name="favorites">Favorites</string>
+    <string name="all">All</string>
+    <string name="favorite_post">Favorite post</string>
+    <string name="there_s_nothing_to_show">There\'s nothing to show here!</string>
+    <string name="posts_deleted">Posts deleted!</string>
+    <string name="post">Post</string>
+    <string name="description">Description</string>
+    <string name="user">User</string>
+    <string name="comments">Comments</string>
+    <string name="no_comments">There are no comments to show.</string>
+    <string name="name_placeholder">Name: %s</string>
+    <string name="email_placeholder">Email: %s</string>
+    <string name="phone_placeholder">Phone Number: %s</string>
+    <string name="website_placeholder">Website: %s</string>
+    <string name="favorites_deleted">Favorite posts deleted!</string>
+</resources>
